@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robamabile
-- 👀 I’m interested in ... all sorts of tech industry topics.
+- 👀 I’m interested in ... learning. Everything.
 - 🌱 I’m currently learning ...web development and IT support.
-- 💞️ I’m looking to collaborate on ... beginner web development projects.
+- 💞️ I’m looking to collaborate on ... beginner projects.
 - 📫 How to reach me ... www.linkedin.com/in/robert-amabile-42a04520a
 - Thank you for browsing my profile. I look forward to becoming part of the community. Feel free to reach out!
 
